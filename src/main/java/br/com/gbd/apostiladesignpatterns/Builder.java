@@ -1,9 +1,9 @@
 package br.com.gbd.apostiladesignpatterns;
 
-import br.com.gbd.apostiladesignpatterns.builder.BBBoletoBuilder;
-import br.com.gbd.apostiladesignpatterns.builder.Boleto;
-import br.com.gbd.apostiladesignpatterns.builder.BoletoBuilder;
-import br.com.gbd.apostiladesignpatterns.builder.GeradorDeBoleto;
+import br.com.gbd.apostiladesignpatterns.criacao.builder.BBBoletoBuilder;
+import br.com.gbd.apostiladesignpatterns.criacao.builder.Boleto;
+import br.com.gbd.apostiladesignpatterns.criacao.builder.BoletoBuilder;
+import br.com.gbd.apostiladesignpatterns.criacao.builder.GeradorDeBoleto;
 
 /*
     Autor: José Carlos de Freitas

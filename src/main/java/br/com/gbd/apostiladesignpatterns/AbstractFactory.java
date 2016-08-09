@@ -1,9 +1,9 @@
 package br.com.gbd.apostiladesignpatterns;
 
-import br.com.gbd.apostiladesignpatterns.abstractFactory.ComunicadorFactory;
-import br.com.gbd.apostiladesignpatterns.abstractFactory.Emissor;
-import br.com.gbd.apostiladesignpatterns.abstractFactory.Receptor;
-import br.com.gbd.apostiladesignpatterns.abstractFactory.VisaComunicadorFactory;
+import br.com.gbd.apostiladesignpatterns.criacao.abstractFactory.ComunicadorFactory;
+import br.com.gbd.apostiladesignpatterns.criacao.abstractFactory.Emissor;
+import br.com.gbd.apostiladesignpatterns.criacao.abstractFactory.Receptor;
+import br.com.gbd.apostiladesignpatterns.criacao.abstractFactory.VisaComunicadorFactory;
 
 /*
     Autor: José Carlos de Freitas

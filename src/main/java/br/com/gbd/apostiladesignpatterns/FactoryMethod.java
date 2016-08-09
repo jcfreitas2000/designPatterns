@@ -1,7 +1,7 @@
 package br.com.gbd.apostiladesignpatterns;
 
-import br.com.gbd.designpatterns.factoryMethod.Emissor;
-import br.com.gbd.designpatterns.factoryMethod.EmissorCreator;
+import br.com.gbd.apostiladesignpatterns.criacao.factoryMethod.Emissor;
+import br.com.gbd.apostiladesignpatterns.criacao.factoryMethod.EmissorCreator;
 
 /*
     Autor: José Carlos de Freitas
